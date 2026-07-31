@@ -8,7 +8,7 @@
 
 ## 🌐 English
 
-Welcome to the official support and feedback repository for **Qi (棊)**, a high-performance native macOS Go (Weiqi / Baduk) AI review and play application.
+Welcome to the official support and feedback repository for **Qi (氣)**, a high-performance native macOS Go (Weiqi / Baduk) AI review and play application.
 
 If you encounter any issues, find bugs, or have feature requests, please feel free to submit an issue or contact us.
 
@@ -34,7 +34,7 @@ If you encounter any issues, find bugs, or have feature requests, please feel fr
 
 ## 🇨🇳 中文 (Simplified Chinese)
 
-欢迎来到 **Qi（棊）** 的官方技术支持与反馈页面。Qi 是一款专为 macOS 打造的高性能原生围棋 AI 复盘与对局软件。
+欢迎来到 **Qi（氣）** 的官方技术支持与反馈页面。Qi 是一款专为 macOS 打造的高性能原生围棋 AI 复盘与对局软件。
 
 如果您在使用过程中遇到任何问题、发现 Bug 或有功能建议，欢迎在此提交反馈。
 
@@ -60,7 +60,7 @@ If you encounter any issues, find bugs, or have feature requests, please feel fr
 
 ## 🇯🇵 日本語 (Japanese)
 
-**Qi (棊)** の公式サポートおよびフィードバックページへようこそ。Qi は macOS 向けに開発された高品質な囲碁 AI 復盤・対局アプリです。
+**Qi (氣)** の公式サポートおよびフィードバックページへようこそ。Qi は macOS 向けに開発された高品質な囲碁 AI 復盤・対局アプリです。
 
 不具合の報告、ご質問、新機能のリクエストなどがありましたら、お気軽にお問い合わせください。
 
@@ -86,7 +86,7 @@ If you encounter any issues, find bugs, or have feature requests, please feel fr
 
 ## 🇰🇷 한국어 (Korean)
 
-macOS 전용 프리미엄 바둑 AI 복기 및 대국 애플리케이션 **Qi (棊)** 의 공식 지원 및 피드백 페이지입니다.
+macOS 전용 프리미엄 바둑 AI 복기 및 대국 애플리케이션 **Qi (氣)** 의 공식 지원 및 피드백 페이지입니다.
 
 버그 제보, 문의 사항 또는 기능 제안이 있으시면 언제든지 Issue를 등록해 주세요.
 
