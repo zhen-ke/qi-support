@@ -1,4 +1,4 @@
-# Qi (棊) - Support & Issue Tracker
+# Qi (氣) - Support & Issue Tracker
 
 [English](#english) | [中文](#chinese) | [日本語](#japanese) | [한국어](#korean)
 
