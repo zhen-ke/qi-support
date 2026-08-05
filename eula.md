@@ -1,3 +1,7 @@
+---
+permalink: /eula/
+---
+
 # qi End User License Agreement (EULA)
 
 Effective date: August 2026
