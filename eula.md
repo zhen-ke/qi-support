@@ -69,4 +69,4 @@ We may update this Agreement from time to time. The updated Agreement will be pu
 
 ## 12. Contact Us
 
-If you have any questions about this Agreement, please contact us at: [xmit0806@outlook.com].
+If you have any questions about this Agreement, please contact us at: xmit0806@outlook.com.
