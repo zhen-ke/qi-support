@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** August 1, 2026
+**Last updated:** August 20, 2026
 
 This Privacy Policy applies to the **Qi** application (hereinafter referred to as "the App"). 
 
@@ -8,10 +8,11 @@ We respect your privacy and are committed to protecting it. This Privacy Policy 
 
 ### 1. Information Collection and Use
 
-**We do NOT collect, store, transmit, or share any personal data or usage information.**
+**We do NOT automatically collect, store, transmit, or share any personal data or usage information.**
 
 * **No Personal Data:** The App does not require you to create an account, register, or provide any personal information (such as your name, email address, phone number, or location).
-* **Local Processing:** All data, configurations, or content created within the App remain strictly on your local device and are never uploaded to external servers.
+* **Local Processing:** All games, review records, settings, and AI engine computations remain strictly on your local device and are never uploaded to external servers.
+* **User-Initiated Feedback (Optional):** If you voluntarily choose to use the "Send Feedback" feature, the App generates an email draft containing diagnostic details (such as device model, macOS version, app version, and engine status) for your preview. You have full visibility and control over what is included. The information is transmitted only when you affirmatively choose to send the email via your email client, and is used solely to troubleshoot issues and improve the App.
 
 ### 2. Third-Party Services and Tracking
 
@@ -32,6 +33,6 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ### 6. Contact Us
 
-If you have any questions or suggestions regarding this Privacy Policy, please feel free to contact us:
+If you have any questions, suggestions, or feedback regarding this Privacy Policy or the App, please contact us at:
 
 * **Email:** xmit0806@outlook.com
